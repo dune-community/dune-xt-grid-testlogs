@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="4" failures="0" disabled="0" errors="0" timestamp="2016-01-22T14:13:56" time="0.009" name="AllTests">
+  <testsuite name="TestGridProvider" tests="4" failures="0" disabled="0" errors="0" time="0.009">
+    <testcase name="is_default_creatable" status="run" time="0.002" classname="TestGridProvider" />
+    <testcase name="fulfills_const_interface" status="run" time="0.001" classname="TestGridProvider" />
+    <testcase name="is_visualizable" status="run" time="0.005" classname="TestGridProvider" />
+    <testcase name="fulfills_non_const_interface" status="run" time="0.001" classname="TestGridProvider" />
+  </testsuite>
+</testsuites>
