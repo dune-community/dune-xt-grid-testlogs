@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuites tests="4" failures="0" disabled="0" errors="0" timestamp="2016-01-22T15:04:51" time="0.022" name="AllTests">
-  <testsuite name="TestGridProvider" tests="4" failures="0" disabled="0" errors="0" time="0.022">
-    <testcase name="is_default_creatable" status="run" time="0.005" classname="TestGridProvider" />
-    <testcase name="fulfills_const_interface" status="run" time="0.003" classname="TestGridProvider" />
-    <testcase name="is_visualizable" status="run" time="0.011" classname="TestGridProvider" />
-    <testcase name="fulfills_non_const_interface" status="run" time="0.003" classname="TestGridProvider" />
+<testsuites tests="4" failures="0" disabled="0" errors="0" timestamp="2016-01-22T15:08:43" time="0.036" name="AllTests">
+  <testsuite name="TestGridProvider" tests="4" failures="0" disabled="0" errors="0" time="0.036">
+    <testcase name="is_default_creatable" status="run" time="0.007" classname="TestGridProvider" />
+    <testcase name="fulfills_const_interface" status="run" time="0.006" classname="TestGridProvider" />
+    <testcase name="is_visualizable" status="run" time="0.018" classname="TestGridProvider" />
+    <testcase name="fulfills_non_const_interface" status="run" time="0.005" classname="TestGridProvider" />
   </testsuite>
 </testsuites>
