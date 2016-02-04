@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuites tests="3" failures="0" disabled="0" errors="0" timestamp="2016-01-28T10:03:23" time="0.005" name="AllTests">
-  <testsuite name="GridWalkerTest/0" tests="1" failures="0" disabled="0" errors="0" time="0.001">
-    <testcase name="Misc" type_param="Int&lt;1&gt;" status="run" time="0.001" classname="GridWalkerTest/0" />
+<testsuites tests="3" failures="0" disabled="0" errors="0" timestamp="2016-02-04T12:52:58" time="0.005" name="AllTests">
+  <testsuite name="GridWalkerTest/0" tests="1" failures="0" disabled="0" errors="0" time="0">
+    <testcase name="Misc" type_param="Int&lt;1&gt;" status="run" time="0" classname="GridWalkerTest/0" />
   </testsuite>
-  <testsuite name="GridWalkerTest/1" tests="1" failures="0" disabled="0" errors="0" time="0.001">
+  <testsuite name="GridWalkerTest/1" tests="1" failures="0" disabled="0" errors="0" time="0.002">
     <testcase name="Misc" type_param="Int&lt;2&gt;" status="run" time="0.001" classname="GridWalkerTest/1" />
   </testsuite>
   <testsuite name="GridWalkerTest/2" tests="1" failures="0" disabled="0" errors="0" time="0.003">
