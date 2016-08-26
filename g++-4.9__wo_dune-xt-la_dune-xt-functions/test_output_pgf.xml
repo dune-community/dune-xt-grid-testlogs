@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuites tests="1" failures="0" disabled="0" errors="0" timestamp="2016-08-26T09:28:07" time="0.04" name="AllTests">
-  <testsuite name="PgfOutput" tests="1" failures="0" disabled="0" errors="0" time="0.04">
-    <testcase name="Sgrid" status="run" time="0.04" classname="PgfOutput" />
+<testsuites tests="1" failures="0" disabled="0" errors="0" timestamp="2016-08-26T10:06:20" time="0.035" name="AllTests">
+  <testsuite name="PgfOutput" tests="1" failures="0" disabled="0" errors="0" time="0.034">
+    <testcase name="Sgrid" status="run" time="0.034" classname="PgfOutput" />
   </testsuite>
 </testsuites>
