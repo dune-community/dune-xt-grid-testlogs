@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuites tests="1" failures="0" disabled="0" errors="0" timestamp="2016-10-24T17:44:18" time="0.014" name="AllTests">
-  <testsuite name="PgfOutput" tests="1" failures="0" disabled="0" errors="0" time="0.014">
-    <testcase name="YaspGrid" status="run" time="0.014" classname="PgfOutput" />
+<testsuites tests="1" failures="0" disabled="0" errors="0" timestamp="2016-10-24T18:31:09" time="0.013" name="AllTests">
+  <testsuite name="PgfOutput" tests="1" failures="0" disabled="0" errors="0" time="0.013">
+    <testcase name="YaspGrid" status="run" time="0.013" classname="PgfOutput" />
   </testsuite>
 </testsuites>
