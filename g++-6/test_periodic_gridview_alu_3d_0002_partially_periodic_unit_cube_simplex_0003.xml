@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuites tests="1" failures="0" disabled="0" errors="0" timestamp="2017-02-01T10:00:57" time="0.619" name="AllTests">
-  <testsuite name="PeriodicViewTest" tests="1" failures="0" disabled="0" errors="0" time="0.619">
-    <testcase name="check_all" status="run" time="0.619" classname="PeriodicViewTest" />
+<testsuites tests="1" failures="0" disabled="0" errors="0" timestamp="2017-02-01T10:03:46" time="0.963" name="AllTests">
+  <testsuite name="PeriodicViewTest" tests="1" failures="0" disabled="0" errors="0" time="0.963">
+    <testcase name="check_all" status="run" time="0.963" classname="PeriodicViewTest" />
   </testsuite>
 </testsuites>
