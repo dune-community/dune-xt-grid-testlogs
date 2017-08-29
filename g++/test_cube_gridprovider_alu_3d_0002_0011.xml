@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuites tests="2" failures="0" disabled="0" errors="0" timestamp="2017-08-29T14:14:39" time="1.441" name="AllTests">
-  <testsuite name="CubeGridProvider" tests="2" failures="0" disabled="0" errors="0" time="1.44">
-    <testcase name="layers" status="run" time="0.328" classname="CubeGridProvider" />
-    <testcase name="visualize" status="run" time="1.112" classname="CubeGridProvider" />
+<testsuites tests="2" failures="0" disabled="0" errors="0" timestamp="2017-08-29T14:19:09" time="1.535" name="AllTests">
+  <testsuite name="CubeGridProvider" tests="2" failures="0" disabled="0" errors="0" time="1.534">
+    <testcase name="layers" status="run" time="0.347" classname="CubeGridProvider" />
+    <testcase name="visualize" status="run" time="1.187" classname="CubeGridProvider" />
   </testsuite>
 </testsuites>
