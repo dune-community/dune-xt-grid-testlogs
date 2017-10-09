@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuites tests="1" failures="0" disabled="0" errors="0" timestamp="2017-08-29T14:19:03" time="0.004" name="AllTests">
-  <testsuite name="BoundaryInfoFactory" tests="1" failures="0" disabled="0" errors="0" time="0.004">
-    <testcase name="all" status="run" time="0.004" classname="BoundaryInfoFactory" />
-  </testsuite>
-</testsuites>
