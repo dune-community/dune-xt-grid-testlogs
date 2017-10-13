@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="2" failures="0" disabled="0" errors="0" timestamp="2017-10-13T14:17:37" time="0.046" name="AllTests">
+  <testsuite name="DgfGridProvider" tests="2" failures="0" disabled="0" errors="0" time="0.046">
+    <testcase name="layers" status="run" time="0.019" classname="DgfGridProvider" />
+    <testcase name="visualize" status="run" time="0.026" classname="DgfGridProvider" />
+  </testsuite>
+</testsuites>
