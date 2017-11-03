@@ -1,3 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuites tests="0" failures="0" disabled="0" errors="0" timestamp="2017-11-03T13:36:10" time="0" name="AllTests">
+<testsuites tests="18" failures="0" disabled="0" errors="0" timestamp="2017-11-03T13:44:28" time="433.359" name="AllTests">
+  <testsuite name="CubeProviderTest" tests="18" failures="0" disabled="0" errors="0" time="433.357">
+    <testcase name="setup_works" status="run" time="35.215" classname="CubeProviderTest" />
+    <testcase name="visualize_is_callable" status="run" time="34.915" classname="CubeProviderTest" />
+    <testcase name="global_grid_part_entity_to_subdomain_mapping_is_correct" status="run" time="31.028" classname="CubeProviderTest" />
+    <testcase name="global_grid_view_entity_to_subdomain_mapping_is_correct" status="run" time="34.013" classname="CubeProviderTest" />
+    <testcase name="local_parts_are_of_correct_size" status="run" time="34.08" classname="CubeProviderTest" />
+    <testcase name="local_views_are_of_correct_size" status="run" time="34.889" classname="CubeProviderTest" />
+    <testcase name="local_parts_are_indexed_consecutively" status="run" time="20.945" classname="CubeProviderTest" />
+    <testcase name="local_views_are_indexed_consecutively" status="run" time="19.145" classname="CubeProviderTest" />
+    <testcase name="local_parts_report_correct_boundary_id" status="run" time="19.019" classname="CubeProviderTest" />
+    <testcase name="local_views_report_correct_boundary_id" status="run" time="18.946" classname="CubeProviderTest" />
+    <testcase name="boundary_parts_are_of_correct_size" status="run" time="19.411" classname="CubeProviderTest" />
+    <testcase name="boundary_parts_are_indexed_consecutively" status="run" time="18.85" classname="CubeProviderTest" />
+    <testcase name="boundary_parts_contain_only_boundary_entities_and_intersections" status="run" time="18.805" classname="CubeProviderTest" />
+    <testcase name="domain_boundary_is_exactly_covered_by_the_sum_of_local_boundaries" status="run" time="18.895" classname="CubeProviderTest" />
+    <testcase name="coupling_parts_are_of_correct_size" status="run" time="18.849" classname="CubeProviderTest" />
+    <testcase name="coupling_parts_are_indexed_consecutively" status="run" time="18.818" classname="CubeProviderTest" />
+    <testcase name="coupling_parts_contain_only_inner_entities_and_intersections" status="run" time="18.766" classname="CubeProviderTest" />
+    <testcase name="subdomain_connections_are_exactly_covered_by_couplings" status="run" time="18.765" classname="CubeProviderTest" />
+  </testsuite>
 </testsuites>

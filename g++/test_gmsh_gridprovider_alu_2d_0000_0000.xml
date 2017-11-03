@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuites tests="2" failures="0" disabled="0" errors="0" timestamp="2017-11-03T13:36:15" time="0.053" name="AllTests">
-  <testsuite name="GmshGridProvider" tests="2" failures="0" disabled="0" errors="0" time="0.053">
-    <testcase name="layers" status="run" time="0.02" classname="GmshGridProvider" />
-    <testcase name="visualize" status="run" time="0.033" classname="GmshGridProvider" />
+<testsuites tests="2" failures="0" disabled="0" errors="0" timestamp="2017-11-03T13:45:39" time="0.059" name="AllTests">
+  <testsuite name="GmshGridProvider" tests="2" failures="0" disabled="0" errors="0" time="0.058">
+    <testcase name="layers" status="run" time="0.023" classname="GmshGridProvider" />
+    <testcase name="visualize" status="run" time="0.034" classname="GmshGridProvider" />
   </testsuite>
 </testsuites>
