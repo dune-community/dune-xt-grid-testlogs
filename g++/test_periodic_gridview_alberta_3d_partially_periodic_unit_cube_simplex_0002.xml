@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuites tests="1" failures="0" disabled="0" errors="0" timestamp="2017-11-09T23:53:33" time="2.519" name="AllTests">
-  <testsuite name="PeriodicViewTest" tests="1" failures="0" disabled="0" errors="0" time="2.518">
-    <testcase name="check_all" status="run" time="2.517" classname="PeriodicViewTest" />
-  </testsuite>
-</testsuites>
