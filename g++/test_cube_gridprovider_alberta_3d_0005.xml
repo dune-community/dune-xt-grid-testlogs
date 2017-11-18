@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="2" failures="0" disabled="0" errors="0" timestamp="2017-11-18T22:01:22" time="0.502" name="AllTests">
+  <testsuite name="CubeGridProvider" tests="2" failures="0" disabled="0" errors="0" time="0.499">
+    <testcase name="layers" status="run" time="0.061" classname="CubeGridProvider" />
+    <testcase name="visualize" status="run" time="0.436" classname="CubeGridProvider" />
+  </testsuite>
+</testsuites>
