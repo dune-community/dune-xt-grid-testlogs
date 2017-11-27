@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuites tests="1" failures="0" disabled="0" errors="0" timestamp="2017-11-20T09:08:24" time="0.004" name="AllTests">
-  <testsuite name="BoundaryInfoFactory" tests="1" failures="0" disabled="0" errors="0" time="0.003">
+<testsuites tests="1" failures="0" disabled="0" errors="0" timestamp="2017-11-27T11:10:50" time="0.003" name="AllTests">
+  <testsuite name="BoundaryInfoFactory" tests="1" failures="0" disabled="0" errors="0" time="0.002">
     <testcase name="all" status="run" time="0.002" classname="BoundaryInfoFactory" />
   </testsuite>
 </testsuites>
