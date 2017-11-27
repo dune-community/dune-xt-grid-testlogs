@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuites tests="1" failures="0" disabled="0" errors="0" timestamp="2017-11-27T10:21:50" time="0.026" name="AllTests">
+<testsuites tests="1" failures="0" disabled="0" errors="0" timestamp="2017-11-27T10:24:17" time="0.026" name="AllTests">
   <testsuite name="PeriodicViewTest" tests="1" failures="0" disabled="0" errors="0" time="0.026">
     <testcase name="check_all" status="run" time="0.026" classname="PeriodicViewTest" />
   </testsuite>
