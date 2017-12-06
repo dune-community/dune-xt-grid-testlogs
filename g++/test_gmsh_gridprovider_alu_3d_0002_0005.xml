@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="2" failures="0" disabled="0" errors="0" timestamp="2017-12-06T17:10:32" time="1.182" name="AllTests">
+  <testsuite name="GmshGridProvider" tests="2" failures="0" disabled="0" errors="0" time="1.182">
+    <testcase name="layers" status="run" time="0.297" classname="GmshGridProvider" />
+    <testcase name="visualize" status="run" time="0.885" classname="GmshGridProvider" />
+  </testsuite>
+</testsuites>
