@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuites tests="2" failures="0" disabled="0" errors="0" timestamp="2017-12-10T14:28:56" time="0.043" name="AllTests">
-  <testsuite name="DgfGridProvider" tests="2" failures="0" disabled="0" errors="0" time="0.041">
-    <testcase name="layers" status="run" time="0.005" classname="DgfGridProvider" />
-    <testcase name="visualize" status="run" time="0.035" classname="DgfGridProvider" />
+<testsuites tests="2" failures="0" disabled="0" errors="0" timestamp="2017-12-10T14:34:18" time="0.018" name="AllTests">
+  <testsuite name="DgfGridProvider" tests="2" failures="0" disabled="0" errors="0" time="0.018">
+    <testcase name="layers" status="run" time="0.011" classname="DgfGridProvider" />
+    <testcase name="visualize" status="run" time="0.007" classname="DgfGridProvider" />
   </testsuite>
 </testsuites>
