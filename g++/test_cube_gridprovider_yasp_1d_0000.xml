@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuites tests="2" failures="0" disabled="0" errors="0" timestamp="2017-12-12T13:17:13" time="0.006" name="AllTests">
-  <testsuite name="CubeGridProvider" tests="2" failures="0" disabled="0" errors="0" time="0.005">
-    <testcase name="layers" status="run" time="0.002" classname="CubeGridProvider" />
-    <testcase name="visualize" status="run" time="0.003" classname="CubeGridProvider" />
-  </testsuite>
-</testsuites>
