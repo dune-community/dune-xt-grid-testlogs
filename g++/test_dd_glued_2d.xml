@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="12" failures="0" disabled="0" errors="0" timestamp="2017-12-12T13:16:09" time="0.664" name="AllTests">
+  <testsuite name="GluedDdGridTest/0" tests="6" failures="0" disabled="0" errors="0" time="0.539">
+    <testcase name="setup_works" type_param="std::tuple&lt;Dune::YaspGrid&lt;2, Dune::EquidistantOffsetCoordinates&lt;double, 2&gt; &gt;, Dune::YaspGrid&lt;2, Dune::EquidistantOffsetCoordinates&lt;double, 2&gt; &gt; &gt;" status="run" time="0.038" classname="GluedDdGridTest/0" />
+    <testcase name="visualize_is_callable" type_param="std::tuple&lt;Dune::YaspGrid&lt;2, Dune::EquidistantOffsetCoordinates&lt;double, 2&gt; &gt;, Dune::YaspGrid&lt;2, Dune::EquidistantOffsetCoordinates&lt;double, 2&gt; &gt; &gt;" status="run" time="0.078" classname="GluedDdGridTest/0" />
+    <testcase name="couplings_are_of_correct_size" type_param="std::tuple&lt;Dune::YaspGrid&lt;2, Dune::EquidistantOffsetCoordinates&lt;double, 2&gt; &gt;, Dune::YaspGrid&lt;2, Dune::EquidistantOffsetCoordinates&lt;double, 2&gt; &gt; &gt;" status="run" time="0.053" classname="GluedDdGridTest/0" />
+    <testcase name="intersections_are_correctly_oriented_for_equal_levels" type_param="std::tuple&lt;Dune::YaspGrid&lt;2, Dune::EquidistantOffsetCoordinates&lt;double, 2&gt; &gt;, Dune::YaspGrid&lt;2, Dune::EquidistantOffsetCoordinates&lt;double, 2&gt; &gt; &gt;" status="run" time="0.087" classname="GluedDdGridTest/0" />
+    <testcase name="intersections_are_correctly_oriented_for_higher_neighbor_levels" type_param="std::tuple&lt;Dune::YaspGrid&lt;2, Dune::EquidistantOffsetCoordinates&lt;double, 2&gt; &gt;, Dune::YaspGrid&lt;2, Dune::EquidistantOffsetCoordinates&lt;double, 2&gt; &gt; &gt;" status="run" time="0.14" classname="GluedDdGridTest/0" />
+    <testcase name="__STILL_BROKEN__intersection_orientation_is_wrong_for_lower_or_equal_neighbor_levels" type_param="std::tuple&lt;Dune::YaspGrid&lt;2, Dune::EquidistantOffsetCoordinates&lt;double, 2&gt; &gt;, Dune::YaspGrid&lt;2, Dune::EquidistantOffsetCoordinates&lt;double, 2&gt; &gt; &gt;" status="run" time="0.141" classname="GluedDdGridTest/0" />
+  </testsuite>
+  <testsuite name="GluedDdGridTest/1" tests="6" failures="0" disabled="0" errors="0" time="0.125">
+    <testcase name="setup_works" type_param="std::tuple&lt;Dune::YaspGrid&lt;2, Dune::EquidistantOffsetCoordinates&lt;double, 2&gt; &gt;, Dune::AlbertaGrid&lt;2, 2&gt; &gt;" status="run" time="0.019" classname="GluedDdGridTest/1" />
+    <testcase name="visualize_is_callable" type_param="std::tuple&lt;Dune::YaspGrid&lt;2, Dune::EquidistantOffsetCoordinates&lt;double, 2&gt; &gt;, Dune::AlbertaGrid&lt;2, 2&gt; &gt;" status="run" time="0.034" classname="GluedDdGridTest/1" />
+    <testcase name="couplings_are_of_correct_size" type_param="std::tuple&lt;Dune::YaspGrid&lt;2, Dune::EquidistantOffsetCoordinates&lt;double, 2&gt; &gt;, Dune::AlbertaGrid&lt;2, 2&gt; &gt;" status="run" time="0.031" classname="GluedDdGridTest/1" />
+    <testcase name="intersections_are_correctly_oriented_for_equal_levels" type_param="std::tuple&lt;Dune::YaspGrid&lt;2, Dune::EquidistantOffsetCoordinates&lt;double, 2&gt; &gt;, Dune::AlbertaGrid&lt;2, 2&gt; &gt;" status="run" time="0.026" classname="GluedDdGridTest/1" />
+    <testcase name="intersections_are_correctly_oriented_for_higher_neighbor_levels" type_param="std::tuple&lt;Dune::YaspGrid&lt;2, Dune::EquidistantOffsetCoordinates&lt;double, 2&gt; &gt;, Dune::AlbertaGrid&lt;2, 2&gt; &gt;" status="run" time="0.007" classname="GluedDdGridTest/1" />
+    <testcase name="__STILL_BROKEN__intersection_orientation_is_wrong_for_lower_or_equal_neighbor_levels" type_param="std::tuple&lt;Dune::YaspGrid&lt;2, Dune::EquidistantOffsetCoordinates&lt;double, 2&gt; &gt;, Dune::AlbertaGrid&lt;2, 2&gt; &gt;" status="run" time="0.007" classname="GluedDdGridTest/1" />
+  </testsuite>
+</testsuites>
